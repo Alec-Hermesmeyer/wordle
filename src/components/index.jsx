@@ -1,0 +1,9 @@
+export { default as Board } from "./Board/index";
+export { default as Box } from "./Box/index";
+export { default as Error } from "./Error/index";
+export { default as Game } from "./Game/index";
+export { default as Help } from "./Help/index";
+export { default as KeyBoard } from "./KeyBoard/index";
+export { default as Modal } from "./Modal/index";
+export { default as NavBar } from "./NavBar/index";
+export { default as Settings } from "./Settings/index";
